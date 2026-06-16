@@ -6,7 +6,7 @@ A modern desktop-based productivity application built using **Java Swing** and *
 
 **Nafeesathul Misriya** & **Ishan Thomas Eapen**
 
-* **Lead Developer: **Ishan Thomas Eapen 
+* **Lead Developer:** Ishan Thomas Eapen 
 * **Project Collaborator:** Nafeesathul Misriya
 
 ---
