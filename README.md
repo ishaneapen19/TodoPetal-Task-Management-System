@@ -173,7 +173,7 @@ java Main
 
 ## 👩‍💻 Contributions
 
-### Nafeesathul Misriya
+### Ishan Thomas Eapen & Nafeesathul Misriya
 
 * UI/UX Design using Java Swing
 * Authentication & Authorization Modules
@@ -182,9 +182,6 @@ java Main
 * CRUD Operations
 * Dashboard Development
 * Testing & Debugging
-
-### Ishan Thomas Eapen
-
 * Project Documentation
 * System Analysis
 * Testing & Validation
